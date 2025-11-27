@@ -3,7 +3,7 @@
 A modern and clean Contact Us Page built using React + Vite as part of my frontend learning journey.
 
 📸 Screenshot
-![Screenshot](./public/Screenshot/contact_us_screenshot.png)
+![Screenshot](./public/Screenshot/Screenshot 2025-11-28 012808.png)
 
 ✨ Features
 .Responsive design
