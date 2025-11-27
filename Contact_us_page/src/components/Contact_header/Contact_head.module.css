@@ -1,0 +1,20 @@
+.contact_section {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px 0;      /* adds space above/below */
+}
+
+.contact_section h1 {
+  font-size: 48px;
+  font-weight: 800;
+  margin-bottom: 20px;  /* spacing below title */
+  line-height: 1.2;
+}
+
+.contact_section p {
+  max-width: 80%;       /* keeps text readable, just like screenshot */
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.6;     /* improves readability */
+  color: #333;          /* softer dark color */
+}
